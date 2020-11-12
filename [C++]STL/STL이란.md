@@ -10,7 +10,7 @@ c++을 위한 라이브러리
 
 - 컨테이너
   - 시퀀스 컨테이너: 데이터를 선형으로 저장
-    - vector
+    - [vector](https://github.com/tiro25/algo_study/blob/master/%5BC%2B%2B%5DSTL/vector.md)
     - deque
     - list
     - slist
