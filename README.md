@@ -36,9 +36,9 @@ c++을 위한 라이브러리
     - map
     - multimap
   - 컨테이너 어댑터: 인터페이스를 제한한 시퀀스나 연관 컨테이너의 변형, 반복자 지원 X
-    - stack
-    - queue
-    - priority_queue
+    - [stack](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/stack.md)
+    - [queue](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/queue.md)
+    - [priority_queue](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/priority_queue.md)
 - [반복자(Iterator)](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/%EB%B0%98%EB%B3%B5%EC%9E%90.md)
 - 알고리즘
 - 함수자(functor)
