@@ -265,7 +265,7 @@ int main(){
 - emplace() \* C++11
 - emplace_back() \* C++11
 
-[https://stackoverflow.com/questions/14788261/c-stdvector-emplace-vs-insert][emplace vs insert]
+[emplace vs insert](https://stackoverflow.com/questions/14788261/c-stdvector-emplace-vs-insert)
 
 ```c++
 #include <iostream>
