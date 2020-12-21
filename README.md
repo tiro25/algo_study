@@ -27,7 +27,7 @@ c++을 위한 라이브러리
 - 컨테이너
   - 시퀀스 컨테이너: 데이터를 선형으로 저장
     - [vector](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/vector.md)
-    - [deque](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/deque.md)
+    - [delsque](https://github.com/tiro25/algo_study/blob/master/C%2B%2B/library/STL/deque.md)
     - list
     - slist
   - 연관 컨테이너: 데이터를 일정 규칙에 따라 조직화하여 저장하고 관리
